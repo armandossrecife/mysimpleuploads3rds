@@ -34,6 +34,9 @@ AWSCLOUD(aws) {
         AMAZONEC2(ec2){
             INSTANCE(servidor1, webserver1)
         }
+        AMAZONRDS(rds){
+            DBINSTANCE(banco,mydb)
+        }        
         PYTHON(python,SDK)
     }
     AMAZONCLOUDWATCH(cloudwatch, mycloudwatch)
@@ -49,6 +52,7 @@ browser1 -d-> servidor1
 browser2 -d-> servidor1
 cloudwatch -d-> servidor1
 myaccesss3 -d-> servidor1
+servidor1 -d-> banco
 servidor1 -d-> python
 python -d-> media
 
