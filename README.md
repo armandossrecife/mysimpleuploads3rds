@@ -1,6 +1,6 @@
-# My Simple Upload with AWS S3
+# My Simple Upload with AWS S3 and AWS RDS
 
-Aplicação web que faz uploads e downloads de arquivos em um bucket S3. 
+Aplicação web que faz uploads e downloads de arquivos em um bucket S3 integrado a um banco no AWS RDS. 
 
 Telas: [Home](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/home.png) [Upload](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/upload_2.png) [Downloads](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/downloads.png) 
 
