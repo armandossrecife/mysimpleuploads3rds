@@ -8,7 +8,7 @@ Telas: [Home](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs
 
 [Passos para criar um bucket S3 e configurações](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/passos_s3.md)
 
-[Passos para criar uma instância de um banco MariaDB usando com o AWS RDS]()
+[Passos para criar uma instância de um banco MariaDB usando com o AWS RDS](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/passos_rds.md)
 
 [Arquitetura base](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/arquitetura.png)
 
