@@ -2,17 +2,17 @@
 
 Aplicação web que faz uploads e downloads de arquivos em um bucket S3 integrado a um banco no AWS RDS. 
 
-Telas: [Home](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/home.png) [Upload](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/upload_2.png) [Downloads](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/downloads.png) 
+Telas: [Home](https://github.com/armandossrecife/mysimpleuploads3rds/blob/main/docs/home.png) [Upload](https://github.com/armandossrecife/mysimpleuploads3rds/blob/main/docs/upload_2.png) [Downloads](https://github.com/armandossrecife/mysimpleuploads3rds/blob/main/docs/downloads.png) 
 
-[Dependências](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/dependencias.md)
+[Dependências](https://github.com/armandossrecife/mysimpleuploads3rds/blob/main/docs/dependencias.md)
 
-[Passos para criar um bucket S3 e configurações](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/passos_s3.md)
+[Passos para criar um bucket S3 e configurações](https://github.com/armandossrecife/mysimpleuploads3rds/blob/main/docs/passos_s3.md)
 
-[Passos para criar uma instância de um banco MariaDB usando com o AWS RDS](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/passos_rds.md)
+[Passos para criar uma instância de um banco MariaDB usando com o AWS RDS](https://github.com/armandossrecife/mysimpleuploads3rds/blob/main/docs/passos_rds.md)
 
-[Arquitetura base](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/arquitetura.png)
+[Arquitetura base](https://github.com/armandossrecife/mysimpleuploads3rds/blob/main/docs/arquitetura.png)
 
-[Execução da aplicação em uma instância EC2](https://github.com/armandossrecife/mysimpleuploads3/blob/main/docs/passos_ec2.md)
+[Execução da aplicação em uma instância EC2](https://github.com/armandossrecife/mysimpleuploads3rds/blob/main/docs/passos_ec2.md)
 
 ## 1. No servidor da aplicação, crie um ambiente virtual para a sua aplicação
 
