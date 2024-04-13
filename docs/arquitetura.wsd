@@ -41,6 +41,7 @@ AWSCLOUD(aws) {
     }
     AMAZONCLOUDWATCH(cloudwatch, mycloudwatch)
     AWSIAM(myaccesss3,fullaccesss3)
+    AWSIAM(myaccessrds,fullaccessrds)
     AMAZONS3(s3) {
             BUCKET(media,mymedia)
         }
@@ -52,6 +53,7 @@ browser1 -d-> servidor1
 browser2 -d-> servidor1
 cloudwatch -d-> servidor1
 myaccesss3 -d-> servidor1
+myaccessrds -d-> servidor1
 servidor1 -d-> banco
 servidor1 -d-> python
 python -d-> media
