@@ -39,4 +39,4 @@ Faça uma associação de uma política de segurança de acesso completo aos ser
 
 ## 6. Executar a aplicação principal
 
-Siga as instruções (README.md) de como executar a aplicação principal no diretório mysimpleuploads3
+Siga as instruções (README.md) de como executar a aplicação principal no diretório mysimpleuploads3rds
